@@ -7,4 +7,4 @@ pass1 = "mypass12#12"
 pass2 = "secpass6363@"
 pass3 = "yahoo1234"
 Twitter_Key = "mytwitterpass123"
-AWS = AKIA1234harshmis
+AWS = AKIAJCK2WUHJ2653GNBQ
